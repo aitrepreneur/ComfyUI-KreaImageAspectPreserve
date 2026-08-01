@@ -58,18 +58,17 @@ The restore node can automatically decide whether to use:
 
 ## Before
 
-<img width="480" height="268" alt="Before" src="https://github.com/user-attachments/assets/097b43bb-b67b-44bc-9e6e-bab7fc75e572" />
+<img width="480" height="268" alt="Before" src="https://github.com/user-attachments/assets/6f336d4d-dda6-46fc-8119-560f627575b2" />
 
 ## After
 
-<img width="480" height="268" alt="afterbirdinpaint" src="https://github.com/user-attachments/assets/54e91c71-984d-4357-b4d3-37c93378c5b7" />
+<img width="480" height="268" alt="afterbirdinpaint" src="https://github.com/user-attachments/assets/7ee7bdea-2d83-4c56-9d9a-8d8bfdf87a57" />
 
-<img width="480" height="268" alt="Krea2UniversalNativeRes_00005_" src="https://github.com/user-attachments/assets/e550025e-5964-4227-8622-cd14b8f24ab2" />
+<img width="480" height="268" alt="Krea2UniversalNativeRes_00005_" src="https://github.com/user-attachments/assets/4cf7deeb-477b-4e8a-a833-1d76c0f48874" />
 
+<img width="480" height="268" alt="Krea2UniversalNativeRes_00011_" src="https://github.com/user-attachments/assets/abe60eed-1d64-4201-b221-dae2d485dc7b" />
 
-<img width="480" height="268" alt="Krea2UniversalNativeRes_00011_" src="https://github.com/user-attachments/assets/24cbb55f-6fff-47ca-b9d3-848cad710cbd" />
-
-<img width="480" height="268" alt="Krea2UniversalNativeRes_00012_" src="https://github.com/user-attachments/assets/1fb348d2-cab1-4899-b80a-665114288a67" />
+<img width="480" height="268" alt="Krea2UniversalNativeRes_00012_" src="https://github.com/user-attachments/assets/092b8e66-e223-484b-b08d-13e560e08b3e" />
 
 
 ## Full Workflow
